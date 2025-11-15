@@ -90,13 +90,14 @@ Built using Streamlit with a well-designed interface.
 
 ## 📂 Project Structure
 library-seat-prediction/
-│
-├── APP.py <- Streamlit web app
-├── EDA.ipynb <- Data exploration notebook
-├── library_dataset.csv <- Final dataset used
-├── seat_availability_model.pkl <- Trained Random Forest model
-├── requirements.txt <- Dependencies for Streamlit Cloud
-└── README.md <- Documentation
+- │
+- ├── APP.py                     # Streamlit web application
+- ├── EDA.ipynb                  # Data exploration & preprocessing notebook
+- ├── library_dataset.csv        # Final dataset used for model training
+- ├── seat_availability_model.pkl # Trained Random Forest model
+- ├── requirements.txt           # Python dependencies
+- └── README.md                  # Project documentation
+
 
 
 ---

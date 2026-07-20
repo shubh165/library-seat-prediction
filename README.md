@@ -1,6 +1,6 @@
 # library-seat-prediction
 # 📚 Library Seat Availability Prediction  
-### Machine Learning Project | Streamlit Web App | Aug–Nov 2025 Dataset
+### Machine Learning Project | Streamlit Web App | Aug–Nov 2025 Dataset (College - NIT Kurukshetra)
 
 👉 **Live App:** https://library-seat-prediction.streamlit.app/  
 👉 **Dataset:** Aug 15 – Nov 10 (Hourly data – Weather, Gender Count, Exam Days)
@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-This project predicts **seat availability in a college library** based on:
+This project predicts **seat availability in a NIT Kurukshetra college library** based on:
 
 - Day of the week  
 - Hour of the day  
